@@ -1,0 +1,46 @@
+name: qqi 岗位自动更新
+
+on:
+  push:
+    paths:
+      - .github/workflows/qqi-jobs.yml
+  schedule:
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: qqi-public-job-feed
+  cancel-in-progress: false
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 读取工作台
+        uses: actions/checkout@v4
+
+      - name: 检查公开招聘网页
+        run: |
+          node <<'NODE'
+          const fs = require("node:fs");
+          const html = fs.readFileSync("index.html", "utf8");
+          const match = html.match(/<script id="qqi-update-script" type="application\/qqi-background-worker">([\s\S]*?)<\/script>/);
+          if (!match) throw new Error("index.html 中没有找到岗位检索程序");
+          new Function("require", "process", match[1])(require, process);
+          NODE
+
+      - name: 发布最新岗位订阅
+        run: |
+          git config user.name "qqi jobs bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs-feed.json
+          if git diff --cached --quiet; then
+            echo "岗位订阅没有变化"
+            exit 0
+          fi
+          git commit -m "自动更新公开秋招岗位"
+          git push
