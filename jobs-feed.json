@@ -1,11 +1,11 @@
 {
   "kind": "qqi-public-job-feed",
   "version": 1,
-  "generatedAt": "2026-09-01T20:59:52.400Z",
+  "generatedAt": "2026-09-02T00:11:02.591Z",
   "schedule": "about-every-2-hours",
   "sourceCount": 64,
-  "successfulSources": 60,
-  "blockedSources": 4,
+  "successfulSources": 61,
+  "blockedSources": 3,
   "candidates": [
     {
       "id": "auto-23789917318c8e8775ce",
@@ -24,7 +24,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-08-28T20:11:09.806Z",
-      "lastSeenAt": "2026-09-01T20:59:52.400Z"
+      "lastSeenAt": "2026-09-02T00:11:02.591Z"
     }
   ],
   "sources": [
@@ -35,7 +35,7 @@
       "cities": "上海",
       "officialUrl": "https://careers.roche.com/cn/zh/startup-china-pharma",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:52.406Z",
+      "checkedAt": "2026-09-02T00:11:02.597Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -47,7 +47,7 @@
       "cities": "上海 / 深圳 / 北京",
       "officialUrl": "https://www.xtalpi.com/career/",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:52.578Z",
+      "checkedAt": "2026-09-02T00:11:02.657Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -59,7 +59,7 @@
       "cities": "杭州 / 北京",
       "officialUrl": "https://careers.alihealth.cn/campus/home?lang=zh",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:52.579Z",
+      "checkedAt": "2026-09-02T00:11:02.659Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -71,7 +71,7 @@
       "cities": "上海 / 北京 / 深圳",
       "officialUrl": "https://talent.baidu.com/jobs/list",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:52.581Z",
+      "checkedAt": "2026-09-02T00:11:02.660Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -83,7 +83,7 @@
       "cities": "深圳 / 北京 / 上海",
       "officialUrl": "https://join.qq.com/index.html",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:52.582Z",
+      "checkedAt": "2026-09-02T00:11:02.661Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -95,7 +95,7 @@
       "cities": "上海 / 杭州 / 北京 / 深圳",
       "officialUrl": "https://jobs.bytedance.com/campus",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:52.583Z",
+      "checkedAt": "2026-09-02T00:11:02.662Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -107,7 +107,7 @@
       "cities": "上海 / 深圳 / 武汉",
       "officialUrl": "https://united-imaging.zhiye.com/campus",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:52.584Z",
+      "checkedAt": "2026-09-02T00:11:02.663Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -119,7 +119,7 @@
       "cities": "上海 / 全球",
       "officialUrl": "https://insilico.com/careers",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:52.585Z",
+      "checkedAt": "2026-09-02T00:11:02.664Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -131,7 +131,7 @@
       "cities": "杭州 / 上海 / 北京",
       "officialUrl": "https://talent.antgroup.com/campus/home",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:53.177Z",
+      "checkedAt": "2026-09-02T00:11:03.094Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -143,7 +143,7 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://zhaopin.jd.com/",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:53.663Z",
+      "checkedAt": "2026-09-02T00:11:03.940Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -155,7 +155,7 @@
       "cities": "上海 / 北京 / 深圳",
       "officialUrl": "https://zhaopin.meituan.com/web/campus",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:54.366Z",
+      "checkedAt": "2026-09-02T00:11:04.448Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -167,7 +167,7 @@
       "cities": "上海",
       "officialUrl": "https://careers.pddglobalhr.com/campus/grad?%24taroTimestamp=1683536333579&stamp=1&type=fullTime",
       "priority": "B",
-      "checkedAt": "2026-09-01T20:59:54.456Z",
+      "checkedAt": "2026-09-02T00:11:04.636Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -179,7 +179,7 @@
       "cities": "深圳 / 东莞 / 上海",
       "officialUrl": "https://careers.oppo.com/campus",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:54.638Z",
+      "checkedAt": "2026-09-02T00:11:04.776Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -191,7 +191,7 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://campus.hr.xiaomi.com/",
       "priority": "B",
-      "checkedAt": "2026-09-01T20:59:54.834Z",
+      "checkedAt": "2026-09-02T00:11:04.809Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -203,7 +203,7 @@
       "cities": "上海 / 北京",
       "officialUrl": "https://job.xiaohongshu.com/campus/position?campusRecruitTypes=term_regular",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:54.995Z",
+      "checkedAt": "2026-09-02T00:11:05.206Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -215,9 +215,9 @@
       "cities": "上海",
       "officialUrl": "https://jobs.bilibili.com/home",
       "priority": "B",
-      "checkedAt": "2026-09-01T20:59:55.193Z",
-      "status": "访问超时",
-      "ok": false,
+      "checkedAt": "2026-09-02T00:11:05.309Z",
+      "status": "网页可访问，未发现符合条件的正式校招",
+      "ok": true,
       "candidatesFound": 0
     },
     {
@@ -227,7 +227,7 @@
       "cities": "合肥 / 上海 / 北京",
       "officialUrl": "https://iflytek.zhiye.com/",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:55.280Z",
+      "checkedAt": "2026-09-02T00:11:05.328Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -239,7 +239,7 @@
       "cities": "北京 / 上海 / 深圳",
       "officialUrl": "https://dptechnology.jobs.feishu.cn/",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:55.281Z",
+      "checkedAt": "2026-09-02T00:11:05.424Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -251,7 +251,7 @@
       "cities": "深圳 / 北京 / 灵活办公",
       "officialUrl": "https://www.biomap.com/product",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:55.297Z",
+      "checkedAt": "2026-09-02T00:11:05.634Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -263,7 +263,7 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://www.stonewise.cn/join-us",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:55.561Z",
+      "checkedAt": "2026-09-02T00:11:05.941Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -275,7 +275,7 @@
       "cities": "杭州 / 北京",
       "officialUrl": "https://metistechbio.com/join.html",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:55.610Z",
+      "checkedAt": "2026-09-02T00:11:05.946Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -287,7 +287,7 @@
       "cities": "上海 / 长沙",
       "officialUrl": "https://www.sansure.com.cn/CampusRecruitment/list.aspx",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:55.848Z",
+      "checkedAt": "2026-09-02T00:11:06.178Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -299,7 +299,7 @@
       "cities": "深圳 / 南京 / 上海",
       "officialUrl": "https://www.mindray.com/cn/career/campus-recruiting",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:55.998Z",
+      "checkedAt": "2026-09-02T00:11:06.247Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -311,7 +311,7 @@
       "cities": "上海 / 全国",
       "officialUrl": "https://www.siemens-healthineers.cn/careers/campus-recruit",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:56.209Z",
+      "checkedAt": "2026-09-02T00:11:06.277Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -323,7 +323,7 @@
       "cities": "上海 / 全国",
       "officialUrl": "https://www.pfizer.com.cn/zh-hans/about/careers/careers-campus",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:56.326Z",
+      "checkedAt": "2026-09-02T00:11:06.321Z",
       "status": "访问受限（HTTP 403）",
       "ok": false,
       "candidatesFound": 0
@@ -335,7 +335,7 @@
       "cities": "上海 / 杭州 / 无锡",
       "officialUrl": "https://careers.astrazeneca.com/china-zh",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:56.968Z",
+      "checkedAt": "2026-09-02T00:11:06.602Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -347,7 +347,7 @@
       "cities": "上海 / 杭州",
       "officialUrl": "https://jobs.sanofi.cn/china",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:56.983Z",
+      "checkedAt": "2026-09-02T00:11:07.341Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -359,7 +359,7 @@
       "cities": "上海 / 北京",
       "officialUrl": "https://www.novartis.com.cn/careers",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:57.640Z",
+      "checkedAt": "2026-09-02T00:11:07.393Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -371,7 +371,7 @@
       "cities": "上海 / 北京",
       "officialUrl": "https://careers.lilly.com/global/zh/china",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:59.118Z",
+      "checkedAt": "2026-09-02T00:11:07.863Z",
       "status": "访问受限（HTTP 403）",
       "ok": false,
       "candidatesFound": 0
@@ -383,7 +383,7 @@
       "cities": "上海 / 北京 / 杭州",
       "officialUrl": "https://campus.51job.com/msd/",
       "priority": "S",
-      "checkedAt": "2026-09-01T20:59:59.166Z",
+      "checkedAt": "2026-09-02T00:11:07.924Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -395,7 +395,7 @@
       "cities": "上海 / 北京 / 苏州",
       "officialUrl": "https://www.careers.jnj.com/zh-cn/early-career-programs/",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:59.265Z",
+      "checkedAt": "2026-09-02T00:11:07.947Z",
       "status": "访问受限（HTTP 403）",
       "ok": false,
       "candidatesFound": 0
@@ -407,7 +407,7 @@
       "cities": "上海 / 北京",
       "officialUrl": "https://www.bayer.com.cn/zh-hans/zhaoxiannashi",
       "priority": "B",
-      "checkedAt": "2026-09-01T20:59:59.335Z",
+      "checkedAt": "2026-09-02T00:11:07.971Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -419,7 +419,7 @@
       "cities": "上海 / 北京 / 广州",
       "officialUrl": "https://www.beonemedicines.com.cn/careers/",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:59.365Z",
+      "checkedAt": "2026-09-02T00:11:08.209Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -431,7 +431,7 @@
       "cities": "苏州 / 上海",
       "officialUrl": "https://www.innoventbio.com/",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:59.415Z",
+      "checkedAt": "2026-09-02T00:11:08.251Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -443,7 +443,7 @@
       "cities": "上海 / 苏州 / 广州",
       "officialUrl": "https://www.hengrui.com/development/recruit.html",
       "priority": "B",
-      "checkedAt": "2026-09-01T20:59:59.550Z",
+      "checkedAt": "2026-09-02T00:11:08.520Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -455,7 +455,7 @@
       "cities": "上海 / 苏州 / 杭州",
       "officialUrl": "https://wuxiapptec.zhiye.com/campus/jobs",
       "priority": "A",
-      "checkedAt": "2026-09-01T20:59:59.931Z",
+      "checkedAt": "2026-09-02T00:11:08.545Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -467,7 +467,7 @@
       "cities": "上海 / 无锡 / 苏州",
       "officialUrl": "https://www.wuxibiologics.com.cn/join-us/",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:00.129Z",
+      "checkedAt": "2026-09-02T00:11:08.579Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -479,7 +479,7 @@
       "cities": "上海 / 苏州",
       "officialUrl": "https://www.junshipharma.com/join/",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:00.529Z",
+      "checkedAt": "2026-09-02T00:11:08.775Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -491,7 +491,7 @@
       "cities": "上海 / 苏州 / 北京",
       "officialUrl": "https://cn.zailaboratory.com/careers/",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:00.668Z",
+      "checkedAt": "2026-09-02T00:11:09.085Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -503,7 +503,7 @@
       "cities": "上海 / 杭州",
       "officialUrl": "https://fosunpharma.zhiye.com/intern",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:00.823Z",
+      "checkedAt": "2026-09-02T00:11:09.347Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -515,7 +515,7 @@
       "cities": "中山 / 广州 / 上海",
       "officialUrl": "https://www.akesobio.com/cn/career/campus-recruitment/",
       "priority": "B",
-      "checkedAt": "2026-09-01T21:00:00.986Z",
+      "checkedAt": "2026-09-02T00:11:09.586Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -527,7 +527,7 @@
       "cities": "上海 / 北京 / 宁波",
       "officialUrl": "https://www.pharmaron.cn/careers",
       "priority": "B",
-      "checkedAt": "2026-09-01T21:00:01.140Z",
+      "checkedAt": "2026-09-02T00:11:09.784Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -539,7 +539,7 @@
       "cities": "上海 / 重庆 / 苏州",
       "officialUrl": "https://www.portonpharma.com/career",
       "priority": "B",
-      "checkedAt": "2026-09-01T21:00:01.255Z",
+      "checkedAt": "2026-09-02T00:11:09.868Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -551,7 +551,7 @@
       "cities": "上海 / 天津",
       "officialUrl": "https://resources.asymchem.com.cn/casymchemMain/channels/174.html",
       "priority": "B",
-      "checkedAt": "2026-09-01T21:00:01.845Z",
+      "checkedAt": "2026-09-02T00:11:09.988Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -563,7 +563,7 @@
       "cities": "上海 / 泰州",
       "officialUrl": "https://mabwell.com/job.html",
       "priority": "B",
-      "checkedAt": "2026-09-01T21:00:01.910Z",
+      "checkedAt": "2026-09-02T00:11:10.015Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -575,7 +575,7 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://biocytogen.com.cn/career",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:02.493Z",
+      "checkedAt": "2026-09-02T00:11:10.502Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -587,7 +587,7 @@
       "cities": "南京 / 苏州 / 上海",
       "officialUrl": "https://www.genscript.com.cn/CareerOverview.html",
       "priority": "S",
-      "checkedAt": "2026-09-01T21:00:02.636Z",
+      "checkedAt": "2026-09-02T00:11:10.589Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -599,7 +599,7 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://novogene.zhiye.com/campus",
       "priority": "S",
-      "checkedAt": "2026-09-01T21:00:02.919Z",
+      "checkedAt": "2026-09-02T00:11:10.849Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -611,7 +611,7 @@
       "cities": "深圳 / 上海",
       "officialUrl": "https://genomics.zhiye.com/",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:03.168Z",
+      "checkedAt": "2026-09-02T00:11:11.067Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -623,7 +623,7 @@
       "cities": "北京 / 上海 / 深圳",
       "officialUrl": "https://www.infervision.com/career.html",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:03.181Z",
+      "checkedAt": "2026-09-02T00:11:11.199Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -635,7 +635,7 @@
       "cities": "北京 / 上海 / 深圳",
       "officialUrl": "https://shukun.zhiye.com/",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:03.726Z",
+      "checkedAt": "2026-09-02T00:11:11.205Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -647,7 +647,7 @@
       "cities": "北京 / 上海 / 深圳",
       "officialUrl": "https://www.happylifetech.com/join.html",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:03.857Z",
+      "checkedAt": "2026-09-02T00:11:11.264Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -659,7 +659,7 @@
       "cities": "上海 / 深圳",
       "officialUrl": "https://campus.pingan.com/",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:03.867Z",
+      "checkedAt": "2026-09-02T00:11:11.652Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -671,7 +671,7 @@
       "cities": "杭州",
       "officialUrl": "https://www.dxy.cn/",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:03.868Z",
+      "checkedAt": "2026-09-02T00:11:11.670Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -683,7 +683,7 @@
       "cities": "上海 / 苏州",
       "officialUrl": "https://careers.loreal.com/zh_CN/content/China",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:04.178Z",
+      "checkedAt": "2026-09-02T00:11:11.711Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -695,7 +695,7 @@
       "cities": "上海",
       "officialUrl": "https://campus.51job.com/elccampus/summer.html",
       "priority": "B",
-      "checkedAt": "2026-09-01T21:00:04.461Z",
+      "checkedAt": "2026-09-02T00:11:11.746Z",
       "status": "发现 1 条2027正式校招线索",
       "ok": true,
       "candidatesFound": 1
@@ -707,7 +707,7 @@
       "cities": "上海 / 杭州 / 江浙沪 / 北京 / 深圳 / 广州",
       "officialUrl": "https://www.job.ustc.edu.cn/",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:04.649Z",
+      "checkedAt": "2026-09-02T00:11:11.999Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -719,7 +719,7 @@
       "cities": "深圳 / 全国",
       "officialUrl": "https://snibe.zhiye.com/Campus",
       "priority": "S",
-      "checkedAt": "2026-09-01T21:00:04.745Z",
+      "checkedAt": "2026-09-02T00:11:12.037Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -731,7 +731,7 @@
       "cities": "广州",
       "officialUrl": "https://gzmpc.hotjob.cn/wt/GZMPC/web/index/campus",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:04.820Z",
+      "checkedAt": "2026-09-02T00:11:12.282Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -743,7 +743,7 @@
       "cities": "南京 / 上海 / 深圳",
       "officialUrl": "https://jusha.zhiye.com",
       "priority": "B",
-      "checkedAt": "2026-09-01T21:00:05.016Z",
+      "checkedAt": "2026-09-02T00:11:12.357Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -755,7 +755,7 @@
       "cities": "深圳 / 上海 / 全国",
       "officialUrl": "https://www.sonoscape.com.cn/career",
       "priority": "A",
-      "checkedAt": "2026-09-01T21:00:05.031Z",
+      "checkedAt": "2026-09-02T00:11:12.395Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -767,7 +767,7 @@
       "cities": "上海 / 北京 / 杭州",
       "officialUrl": "https://jobs.msd.com/cn/zh",
       "priority": "S",
-      "checkedAt": "2026-09-01T21:00:05.102Z",
+      "checkedAt": "2026-09-02T00:11:12.737Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -779,7 +779,7 @@
       "cities": "上海 / 苏州 / 全国",
       "officialUrl": "https://jobs.danaher.com/global/en",
       "priority": "S",
-      "checkedAt": "2026-09-01T21:00:05.193Z",
+      "checkedAt": "2026-09-02T00:11:12.927Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
@@ -791,7 +791,7 @@
       "cities": "上海 / 苏州 / 全国",
       "officialUrl": "https://jobs.danaher.com/global/en",
       "priority": "S",
-      "checkedAt": "2026-09-01T21:00:05.464Z",
+      "checkedAt": "2026-09-02T00:11:12.966Z",
       "status": "网页可访问，未发现符合条件的正式校招",
       "ok": true,
       "candidatesFound": 0
