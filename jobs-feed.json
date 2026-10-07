@@ -3,11 +3,11 @@
   "version": 2,
   "scannerVersion": "20260907-v2",
   "catalogueReviewedAt": "2026-09-07",
-  "generatedAt": "2026-10-07T13:16:41.715Z",
+  "generatedAt": "2026-10-07T19:57:32.010Z",
   "schedule": "about-every-2-hours",
   "sourceCount": 108,
-  "successfulSources": 94,
-  "blockedSources": 14,
+  "successfulSources": 92,
+  "blockedSources": 16,
   "candidates": [
     {
       "id": "auto-c84b9ed32853e50cdf51",
@@ -26,7 +26,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-07T18:42:59.090Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-61f9aaebb1b02e13222d",
@@ -45,7 +45,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-07T18:42:59.090Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-493a13545b4712c10b8e",
@@ -64,7 +64,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-09T04:37:36.278Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-f615670dc812bcb20458",
@@ -83,7 +83,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-09T04:37:36.278Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-f941abb39e87cf00db63",
@@ -102,7 +102,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-09T04:37:36.278Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-03b1b86fdc6db10575fe",
@@ -121,7 +121,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-09T04:37:36.278Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-c0b18f1a9524b724f0f8",
@@ -140,7 +140,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-11T20:55:48.259Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-78d26a6ae3d2ebdda5e7",
@@ -159,7 +159,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-11T20:55:48.259Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-952edea41bb173afe5d2",
@@ -178,7 +178,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-11T20:55:48.259Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-32a26c30d74517977628",
@@ -197,7 +197,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-14T12:40:19.763Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-520f33ae262f52842e38",
@@ -216,7 +216,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-15T11:40:19.688Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-261b2fc4dc9f8da3d02c",
@@ -235,7 +235,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-18T04:43:22.234Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-dd1aa3bf1bcaeea4e0e2",
@@ -254,7 +254,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-18T20:52:21.124Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-43cb0f8154460dd27a2f",
@@ -273,7 +273,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-18T20:52:21.124Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-1869346b9e0b58a0b833",
@@ -292,7 +292,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-24T17:07:08.215Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-428926d4bcd73392d69f",
@@ -311,7 +311,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-29T22:12:10.950Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-1b7056a59cfde3cb1f53",
@@ -330,7 +330,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-14T12:40:19.763Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-d557db1c3a61351b7816",
@@ -349,7 +349,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-07T18:42:59.090Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-219fa6abeef940e02c68",
@@ -368,7 +368,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-07T18:42:59.090Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-11ba1eede9bc4e915942",
@@ -387,7 +387,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-10T04:38:51.685Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-fd758bba0b2dc12ef8ac",
@@ -406,7 +406,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-10T16:21:47.432Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-cf229814830268a0be2c",
@@ -425,7 +425,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-20T11:18:35.907Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-ebc1a07beb771038d7dd",
@@ -444,7 +444,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-24T17:07:08.215Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-9b4cc734e5b877cf3968",
@@ -463,7 +463,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-b36cb8897c67e05442bd",
@@ -482,7 +482,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-6049931a393fcc43fd4b",
@@ -501,7 +501,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-4303099a8126c8243623",
@@ -520,7 +520,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-8feb9792fca0ec7b64ae",
@@ -539,7 +539,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-fc3a8f0f7ef32ae45d6a",
@@ -558,7 +558,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-531c71c43d53e2244ddb",
@@ -577,7 +577,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-92152a00488f6d263064",
@@ -596,7 +596,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-62279449fcdec2c547df",
@@ -615,7 +615,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-27de06f695e5fcf2e6c4",
@@ -634,7 +634,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-602f5368aa176f365037",
@@ -653,7 +653,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-a974a577ec6a8f1ad6cb",
@@ -672,7 +672,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-1e8d38d3ba7a4d47c8d2",
@@ -691,7 +691,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-87f46f97ca6926739860",
@@ -710,7 +710,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-e527c00e759088d0bbcc",
@@ -729,7 +729,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-22082bbd87ca531e4439",
@@ -748,7 +748,7 @@
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
       "firstSeenAt": "2026-09-08T11:13:48.699Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-f0cf9629da2ab4653121",
@@ -766,8 +766,8 @@
       "priority": "A",
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
-      "firstSeenAt": "2026-10-07T13:16:41.715Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "firstSeenAt": "2026-10-07T19:57:32.010Z",
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-291f75061177b382dc5b",
@@ -785,8 +785,8 @@
       "priority": "A",
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
-      "firstSeenAt": "2026-10-07T13:16:41.715Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "firstSeenAt": "2026-10-07T19:57:32.010Z",
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-7fe028928f815f2e9aff",
@@ -804,8 +804,8 @@
       "priority": "A",
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
-      "firstSeenAt": "2026-10-07T13:16:41.715Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "firstSeenAt": "2026-10-07T19:57:32.010Z",
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-5e75b90f1d7268593cb9",
@@ -823,8 +823,8 @@
       "priority": "A",
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
-      "firstSeenAt": "2026-10-07T13:16:41.715Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "firstSeenAt": "2026-10-07T19:57:32.010Z",
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-9e364e97a15f8ee40f9a",
@@ -842,8 +842,8 @@
       "priority": "A",
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
-      "firstSeenAt": "2026-10-07T13:16:41.715Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "firstSeenAt": "2026-10-07T19:57:32.010Z",
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-f14fc1d2a64ce820b1ee",
@@ -861,8 +861,8 @@
       "priority": "A",
       "reviewState": "待确认",
       "notes": "已过滤实习、社招、校园星探和博士专项；请打开校招原文再次核对正式编制、硕士资格及截止日期。",
-      "firstSeenAt": "2026-10-07T13:16:41.715Z",
-      "lastSeenAt": "2026-10-07T13:16:41.715Z"
+      "firstSeenAt": "2026-10-07T19:57:32.010Z",
+      "lastSeenAt": "2026-10-07T19:57:32.010Z"
     },
     {
       "id": "auto-d3ecdef4d7c82841d431",
@@ -892,7 +892,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://careers.pg.com.cn",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:41.722Z",
+      "checkedAt": "2026-10-07T19:57:32.095Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -906,7 +906,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://jobs.sanofi.com/",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:41.773Z",
+      "checkedAt": "2026-10-07T19:57:32.318Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -920,7 +920,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://career.mindray.com/campus/jobs",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:41.775Z",
+      "checkedAt": "2026-10-07T19:57:32.320Z",
       "status": "网页无法访问或需要登录",
       "ok": false,
       "candidatesFound": 0
@@ -932,7 +932,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.simcere.com/jrwm/jrwm.aspx",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:41.776Z",
+      "checkedAt": "2026-10-07T19:57:32.321Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -946,7 +946,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://fosun.zhaopin.com/",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:41.777Z",
+      "checkedAt": "2026-10-07T19:57:32.322Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -960,7 +960,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://sgs.51job.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:41.778Z",
+      "checkedAt": "2026-10-07T19:57:32.323Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -974,7 +974,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://careers.lilly.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:41.779Z",
+      "checkedAt": "2026-10-07T19:57:32.324Z",
       "status": "访问受限（HTTP 403）",
       "ok": false,
       "candidatesFound": 0
@@ -986,7 +986,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://campus.jd.com/",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:41.780Z",
+      "checkedAt": "2026-10-07T19:57:32.326Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1000,7 +1000,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.botanee.com.cn/",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:42.376Z",
+      "checkedAt": "2026-10-07T19:57:32.958Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1014,7 +1014,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://careers.unilever.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:42.571Z",
+      "checkedAt": "2026-10-07T19:57:33.243Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1028,7 +1028,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://jusha.zhiye.com/",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:42.652Z",
+      "checkedAt": "2026-10-07T19:57:33.437Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1042,7 +1042,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://global.united-imaging.com/zh-cn/careers",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:42.705Z",
+      "checkedAt": "2026-10-07T19:57:33.452Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1056,7 +1056,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://careers.loreal.com/zh_CN/content/Students",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:42.854Z",
+      "checkedAt": "2026-10-07T19:57:33.513Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1070,7 +1070,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://campus.51job.com/elccampus/project.html",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:42.966Z",
+      "checkedAt": "2026-10-07T19:57:33.608Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1084,7 +1084,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://careers.gehealthcare.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:42.987Z",
+      "checkedAt": "2026-10-07T19:57:33.664Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1098,7 +1098,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.iguopin.com/company?id=10685387618207268",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:43.504Z",
+      "checkedAt": "2026-10-07T19:57:33.891Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1112,7 +1112,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.wuxixdc.com/",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:43.516Z",
+      "checkedAt": "2026-10-07T19:57:34.027Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1126,7 +1126,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://seagmap.sea.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:43.664Z",
+      "checkedAt": "2026-10-07T19:57:34.057Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1140,7 +1140,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.carlsbergchina.com.cn/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:43.715Z",
+      "checkedAt": "2026-10-07T19:57:34.395Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1154,7 +1154,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://app.mokahr.com/campus-recruitment/nestlegcr",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:43.735Z",
+      "checkedAt": "2026-10-07T19:57:34.443Z",
       "status": "网页无法访问或需要登录",
       "ok": false,
       "candidatesFound": 0
@@ -1166,7 +1166,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://sany.zhiye.com/campus/jobs",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:43.967Z",
+      "checkedAt": "2026-10-07T19:57:34.445Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1180,7 +1180,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://campus.nio.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:44.193Z",
+      "checkedAt": "2026-10-07T19:57:34.578Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1194,7 +1194,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://app.mokahr.com/m/campus_apply/aftershokzhr/36940#/jobs",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:44.327Z",
+      "checkedAt": "2026-10-07T19:57:34.781Z",
       "status": "网页无法访问或需要登录",
       "ok": false,
       "candidatesFound": 0
@@ -1206,7 +1206,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://talent.lenovo.com.cn/campus",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:44.855Z",
+      "checkedAt": "2026-10-07T19:57:34.844Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1220,7 +1220,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://campus.ctrip.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:45.260Z",
+      "checkedAt": "2026-10-07T19:57:35.342Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1234,7 +1234,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://careers.midea.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:45.700Z",
+      "checkedAt": "2026-10-07T19:57:35.476Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1248,7 +1248,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://goertek.hotjob.cn/SU65dd9ebd1c240e4b11c4f491/pb/school.html",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:45.702Z",
+      "checkedAt": "2026-10-07T19:57:35.995Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1262,7 +1262,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://hisense.zhiye.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:46.142Z",
+      "checkedAt": "2026-10-07T19:57:36.507Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1276,7 +1276,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.skyworthdigital.com/job2.html",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:46.400Z",
+      "checkedAt": "2026-10-07T19:57:36.659Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1290,7 +1290,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://talent.baidu.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:46.931Z",
+      "checkedAt": "2026-10-07T19:57:36.809Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1304,7 +1304,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://app.mokahr.com/su/vhijkb",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:47.092Z",
+      "checkedAt": "2026-10-07T19:57:36.928Z",
       "status": "网页无法访问或需要登录",
       "ok": false,
       "candidatesFound": 0
@@ -1316,7 +1316,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://huolala.zhiye.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:47.097Z",
+      "checkedAt": "2026-10-07T19:57:37.541Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1330,7 +1330,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://talent.didiglobal.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:47.332Z",
+      "checkedAt": "2026-10-07T19:57:37.797Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1344,7 +1344,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://campus.changyou.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:48.061Z",
+      "checkedAt": "2026-10-07T19:57:38.193Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1358,7 +1358,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.lixiang.com/employ/campus.html",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:48.144Z",
+      "checkedAt": "2026-10-07T19:57:38.352Z",
       "status": "访问受限（HTTP 403）",
       "ok": false,
       "candidatesFound": 0
@@ -1370,7 +1370,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.honor.com/cn/career/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:48.197Z",
+      "checkedAt": "2026-10-07T19:57:38.439Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1384,7 +1384,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://career.huawei.com/cn/campus-recruitment",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:48.440Z",
+      "checkedAt": "2026-10-07T19:57:38.644Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1398,7 +1398,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://join.qq.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:49.003Z",
+      "checkedAt": "2026-10-07T19:57:38.647Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1412,7 +1412,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://hr.vivo.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:49.275Z",
+      "checkedAt": "2026-10-07T19:57:39.095Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1426,7 +1426,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://www.agibot.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:49.845Z",
+      "checkedAt": "2026-10-07T19:57:39.617Z",
       "status": "访问受限（HTTP 500）",
       "ok": false,
       "candidatesFound": 0
@@ -1438,7 +1438,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://careers.oppo.com/campus",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:49.958Z",
+      "checkedAt": "2026-10-07T19:57:39.694Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1452,7 +1452,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://jobs.msd.com/cn/zh",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:50.095Z",
+      "checkedAt": "2026-10-07T19:57:40.273Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1466,7 +1466,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://jobs.danaher.com/global/en",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:50.226Z",
+      "checkedAt": "2026-10-07T19:57:40.345Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1480,7 +1480,7 @@
       "cities": "以具体岗位为准",
       "officialUrl": "https://careers.roche.com/cn/zh/startup-china-pharma",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:50.455Z",
+      "checkedAt": "2026-10-07T19:57:40.401Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1494,7 +1494,7 @@
       "cities": "深圳 / 全国",
       "officialUrl": "https://snibe.zhiye.com/Campus",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:50.559Z",
+      "checkedAt": "2026-10-07T19:57:40.408Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1508,7 +1508,7 @@
       "cities": "上海 / 长沙 / 广州 / 成都 / 全国",
       "officialUrl": "https://sansurehr.zhiye.com/campus",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:50.577Z",
+      "checkedAt": "2026-10-07T19:57:41.027Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1522,7 +1522,7 @@
       "cities": "广州",
       "officialUrl": "https://gzmpc.hotjob.cn/wt/GZMPC/web/index/campus",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:51.046Z",
+      "checkedAt": "2026-10-07T19:57:41.331Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1536,7 +1536,7 @@
       "cities": "深圳 / 上海 / 全国",
       "officialUrl": "https://www.sonoscape.com.cn/career",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:51.086Z",
+      "checkedAt": "2026-10-07T19:57:41.582Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1550,7 +1550,7 @@
       "cities": "上海 / 深圳 / 北京",
       "officialUrl": "https://www.xtalpi.com/career/",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:51.460Z",
+      "checkedAt": "2026-10-07T19:57:41.656Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1564,7 +1564,7 @@
       "cities": "杭州 / 北京",
       "officialUrl": "https://careers.alihealth.cn/campus/home?lang=zh",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:51.543Z",
+      "checkedAt": "2026-10-07T19:57:41.672Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1578,7 +1578,7 @@
       "cities": "上海 / 杭州 / 北京 / 深圳",
       "officialUrl": "https://jobs.bytedance.com/campus",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:51.585Z",
+      "checkedAt": "2026-10-07T19:57:41.698Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1592,7 +1592,7 @@
       "cities": "上海 / 全球",
       "officialUrl": "https://insilico.com/careers",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:51.612Z",
+      "checkedAt": "2026-10-07T19:57:41.889Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1606,7 +1606,7 @@
       "cities": "杭州 / 上海 / 北京",
       "officialUrl": "https://talent.antgroup.com/campus/home",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:51.723Z",
+      "checkedAt": "2026-10-07T19:57:42.037Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1620,7 +1620,7 @@
       "cities": "上海 / 北京 / 深圳",
       "officialUrl": "https://zhaopin.meituan.com/web/campus",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:52.091Z",
+      "checkedAt": "2026-10-07T19:57:42.443Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1634,7 +1634,7 @@
       "cities": "上海",
       "officialUrl": "https://careers.pddglobalhr.com/campus/grad?%24taroTimestamp=1683536333579&stamp=1&type=fullTime",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:52.247Z",
+      "checkedAt": "2026-10-07T19:57:42.786Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1648,7 +1648,7 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://campus.hr.xiaomi.com/",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:52.369Z",
+      "checkedAt": "2026-10-07T19:57:42.972Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1662,11 +1662,9 @@
       "cities": "上海 / 北京",
       "officialUrl": "https://job.xiaohongshu.com/campus/position?campusRecruitTypes=term_regular",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:52.908Z",
-      "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
-      "needsManualReview": true,
-      "followedPages": 0,
-      "ok": true,
+      "checkedAt": "2026-10-07T19:57:43.383Z",
+      "status": "网页无法访问或需要登录",
+      "ok": false,
       "candidatesFound": 0
     },
     {
@@ -1676,7 +1674,7 @@
       "cities": "上海",
       "officialUrl": "https://jobs.bilibili.com/home",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:53.250Z",
+      "checkedAt": "2026-10-07T19:57:43.394Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1690,7 +1688,7 @@
       "cities": "合肥 / 上海 / 北京",
       "officialUrl": "https://iflytek.zhiye.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:53.512Z",
+      "checkedAt": "2026-10-07T19:57:43.526Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1704,7 +1702,7 @@
       "cities": "北京 / 上海 / 深圳",
       "officialUrl": "https://dptechnology.jobs.feishu.cn/",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:53.610Z",
+      "checkedAt": "2026-10-07T19:57:43.769Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1718,7 +1716,7 @@
       "cities": "深圳 / 北京 / 灵活办公",
       "officialUrl": "https://www.biomap.com/product",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:53.834Z",
+      "checkedAt": "2026-10-07T19:57:44.059Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1732,7 +1730,7 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://www.stonewise.cn/join-us",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:53.845Z",
+      "checkedAt": "2026-10-07T19:57:44.229Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1746,7 +1744,7 @@
       "cities": "杭州 / 北京",
       "officialUrl": "https://metistechbio.com/join.html",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:53.925Z",
+      "checkedAt": "2026-10-07T19:57:44.250Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1760,7 +1758,7 @@
       "cities": "上海 / 全国",
       "officialUrl": "https://www.siemens-healthineers.cn/careers/campus-recruit",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:54.412Z",
+      "checkedAt": "2026-10-07T19:57:44.293Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1774,7 +1772,7 @@
       "cities": "上海 / 全国",
       "officialUrl": "https://www.pfizer.com.cn/zh-hans/about/careers/careers-campus",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:54.480Z",
+      "checkedAt": "2026-10-07T19:57:44.367Z",
       "status": "访问受限（HTTP 403）",
       "ok": false,
       "candidatesFound": 0
@@ -1786,7 +1784,7 @@
       "cities": "上海 / 杭州 / 无锡",
       "officialUrl": "https://careers.astrazeneca.com/china-zh",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:54.521Z",
+      "checkedAt": "2026-10-07T19:57:44.528Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1800,7 +1798,7 @@
       "cities": "上海 / 北京",
       "officialUrl": "https://www.novartis.com.cn/careers",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:54.539Z",
+      "checkedAt": "2026-10-07T19:57:44.531Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1814,7 +1812,7 @@
       "cities": "上海 / 北京 / 苏州",
       "officialUrl": "https://www.careers.jnj.com/zh-cn/early-career-programs/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:54.835Z",
+      "checkedAt": "2026-10-07T19:57:44.667Z",
       "status": "访问受限（HTTP 403）",
       "ok": false,
       "candidatesFound": 0
@@ -1826,7 +1824,7 @@
       "cities": "上海 / 北京",
       "officialUrl": "https://www.bayer.com.cn/zh-hans/zhaoxiannashi",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:55.270Z",
+      "checkedAt": "2026-10-07T19:57:45.299Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1840,7 +1838,7 @@
       "cities": "上海 / 北京 / 广州",
       "officialUrl": "https://www.beonemedicines.com.cn/careers/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:55.294Z",
+      "checkedAt": "2026-10-07T19:57:45.637Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1854,7 +1852,7 @@
       "cities": "苏州 / 上海",
       "officialUrl": "https://www.innoventbio.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:55.304Z",
+      "checkedAt": "2026-10-07T19:57:45.708Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1868,7 +1866,7 @@
       "cities": "上海 / 苏州 / 广州",
       "officialUrl": "https://www.hengrui.com/development/recruit.html",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:55.305Z",
+      "checkedAt": "2026-10-07T19:57:45.760Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1882,7 +1880,7 @@
       "cities": "上海 / 苏州 / 杭州",
       "officialUrl": "https://wuxiapptec.zhiye.com/campus/jobs",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:55.323Z",
+      "checkedAt": "2026-10-07T19:57:45.764Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1896,7 +1894,7 @@
       "cities": "上海 / 无锡 / 苏州",
       "officialUrl": "https://www.wuxibiologics.com.cn/join-us/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:55.386Z",
+      "checkedAt": "2026-10-07T19:57:46.184Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1910,7 +1908,7 @@
       "cities": "上海 / 苏州",
       "officialUrl": "https://www.junshipharma.com/join/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:55.873Z",
+      "checkedAt": "2026-10-07T19:57:46.225Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1924,7 +1922,7 @@
       "cities": "上海 / 苏州 / 北京",
       "officialUrl": "https://cn.zailaboratory.com/careers/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:55.991Z",
+      "checkedAt": "2026-10-07T19:57:46.433Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1938,7 +1936,7 @@
       "cities": "中山 / 广州 / 上海",
       "officialUrl": "https://www.akesobio.com/cn/career/campus-recruitment/",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:56.199Z",
+      "checkedAt": "2026-10-07T19:57:47.055Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1952,7 +1950,7 @@
       "cities": "上海 / 北京 / 宁波",
       "officialUrl": "https://www.pharmaron.cn/careers",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:56.354Z",
+      "checkedAt": "2026-10-07T19:57:47.064Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1966,7 +1964,7 @@
       "cities": "上海 / 重庆 / 苏州",
       "officialUrl": "https://www.portonpharma.com/career",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:56.439Z",
+      "checkedAt": "2026-10-07T19:57:47.410Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1980,7 +1978,7 @@
       "cities": "上海 / 天津",
       "officialUrl": "https://resources.asymchem.com.cn/casymchemMain/channels/174.html",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:56.499Z",
+      "checkedAt": "2026-10-07T19:57:47.502Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -1994,7 +1992,7 @@
       "cities": "上海 / 泰州",
       "officialUrl": "https://mabwell.com/job.html",
       "priority": "B",
-      "checkedAt": "2026-10-07T13:16:56.552Z",
+      "checkedAt": "2026-10-07T19:57:48.086Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2008,7 +2006,7 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://biocytogen.com.cn/career",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:57.547Z",
+      "checkedAt": "2026-10-07T19:57:48.237Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2022,7 +2020,7 @@
       "cities": "南京 / 苏州 / 上海",
       "officialUrl": "https://www.genscript.com.cn/CareerOverview.html",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:57.619Z",
+      "checkedAt": "2026-10-07T19:57:48.375Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2036,11 +2034,9 @@
       "cities": "北京 / 上海",
       "officialUrl": "https://novogene.zhiye.com/campus",
       "priority": "S",
-      "checkedAt": "2026-10-07T13:16:57.783Z",
-      "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
-      "needsManualReview": true,
-      "followedPages": 0,
-      "ok": true,
+      "checkedAt": "2026-10-07T19:57:48.520Z",
+      "status": "网页无法访问或需要登录",
+      "ok": false,
       "candidatesFound": 0
     },
     {
@@ -2050,7 +2046,7 @@
       "cities": "深圳 / 上海",
       "officialUrl": "https://genomics.zhiye.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:57.872Z",
+      "checkedAt": "2026-10-07T19:57:48.615Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2064,7 +2060,7 @@
       "cities": "北京 / 上海 / 深圳",
       "officialUrl": "https://www.infervision.com/career.html",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:57.885Z",
+      "checkedAt": "2026-10-07T19:57:48.675Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2078,7 +2074,7 @@
       "cities": "北京 / 上海 / 深圳",
       "officialUrl": "https://shukun.zhiye.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:57.909Z",
+      "checkedAt": "2026-10-07T19:57:48.764Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2092,7 +2088,7 @@
       "cities": "北京 / 上海 / 深圳",
       "officialUrl": "https://www.happylifetech.com/join.html",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:58.010Z",
+      "checkedAt": "2026-10-07T19:57:48.883Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2106,7 +2102,7 @@
       "cities": "上海 / 深圳",
       "officialUrl": "https://campus.pingan.com/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:58.054Z",
+      "checkedAt": "2026-10-07T19:57:49.065Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2120,7 +2116,7 @@
       "cities": "杭州",
       "officialUrl": "https://www.dxy.cn/",
       "priority": "A",
-      "checkedAt": "2026-10-07T13:16:58.156Z",
+      "checkedAt": "2026-10-07T19:57:49.113Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2136,7 +2132,7 @@
       "officialUrl": "https://job.tju.edu.cn/recruitment/content/type/2/id/6240.html",
       "priority": "S",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:58.236Z",
+      "checkedAt": "2026-10-07T19:57:49.333Z",
       "status": "提取 1 条待人工核对线索",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2152,7 +2148,7 @@
       "officialUrl": "https://career.zjnu.edu.cn/campus/view/id/872129",
       "priority": "S",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:58.704Z",
+      "checkedAt": "2026-10-07T19:57:49.679Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2168,7 +2164,7 @@
       "officialUrl": "https://aeo.uibe.edu.cn/front/zph.jspa?tid=2089195640562188290",
       "priority": "S",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:58.810Z",
+      "checkedAt": "2026-10-07T19:57:49.800Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2184,7 +2180,7 @@
       "officialUrl": "https://campus.niuqizp.com/job-v8r5atzzn.html",
       "priority": "S",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:58.862Z",
+      "checkedAt": "2026-10-07T19:57:49.833Z",
       "status": "访问受限（HTTP 403）",
       "ok": false,
       "candidatesFound": 0
@@ -2198,7 +2194,7 @@
       "officialUrl": "https://career.cuhk.edu.cn/job/view/id/469161",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:58.944Z",
+      "checkedAt": "2026-10-07T19:57:50.068Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2214,7 +2210,7 @@
       "officialUrl": "https://career.nankai.edu.cn/correcruit/content/id/116915.html",
       "priority": "S",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:58.963Z",
+      "checkedAt": "2026-10-07T19:57:50.226Z",
       "status": "提取 6 条待人工核对线索",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2230,9 +2226,11 @@
       "officialUrl": "https://career.cuhk.edu.cn/job/view/id/469157",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:59.073Z",
-      "status": "网页无法访问或需要登录",
-      "ok": false,
+      "checkedAt": "2026-10-07T19:57:50.365Z",
+      "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
+      "needsManualReview": true,
+      "followedPages": 0,
+      "ok": true,
       "candidatesFound": 0
     },
     {
@@ -2244,7 +2242,7 @@
       "officialUrl": "https://career.muc.edu.cn/front/zwxx.jspa?xqzwId=38000&zpxxId=31927",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:59.223Z",
+      "checkedAt": "2026-10-07T19:57:50.634Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2260,7 +2258,7 @@
       "officialUrl": "https://job.lzu.edu.cn/html/22/article/2026/91688.html",
       "priority": "S",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:16:59.740Z",
+      "checkedAt": "2026-10-07T19:57:51.619Z",
       "status": "访问受限（HTTP 412）",
       "ok": false,
       "candidatesFound": 0
@@ -2274,7 +2272,7 @@
       "officialUrl": "https://campus.niuqizp.com/job-vyk5a5nn5.html",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:00.113Z",
+      "checkedAt": "2026-10-07T19:57:51.720Z",
       "status": "提取 6 条待人工核对线索",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2290,7 +2288,7 @@
       "officialUrl": "https://aeo.uibe.edu.cn/front/zpxx.jspa?tid=2095522801220894722",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:01.173Z",
+      "checkedAt": "2026-10-07T19:57:51.926Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2306,7 +2304,7 @@
       "officialUrl": "https://career.nankai.edu.cn/correcruit/content/id/117034.html",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:01.452Z",
+      "checkedAt": "2026-10-07T19:57:52.758Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2322,7 +2320,7 @@
       "officialUrl": "https://campus.niuqizp.com/job-vrr5aNLMa.html",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:01.841Z",
+      "checkedAt": "2026-10-07T19:57:53.335Z",
       "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2338,7 +2336,7 @@
       "officialUrl": "https://campus.niuqizp.com/job-vUr5aLaZa.html",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:02.942Z",
+      "checkedAt": "2026-10-07T19:57:53.435Z",
       "status": "提取 16 条待人工核对线索",
       "needsManualReview": true,
       "followedPages": 0,
@@ -2354,7 +2352,7 @@
       "officialUrl": "https://job.lzu.edu.cn/html/22/article/2026/90619.html",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:03.808Z",
+      "checkedAt": "2026-10-07T19:57:53.469Z",
       "status": "访问受限（HTTP 412）",
       "ok": false,
       "candidatesFound": 0
@@ -2368,7 +2366,7 @@
       "officialUrl": "https://job.lzu.edu.cn/html/zczp/detail/305457566599611392.html",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:03.839Z",
+      "checkedAt": "2026-10-07T19:57:53.475Z",
       "status": "访问受限（HTTP 412）",
       "ok": false,
       "candidatesFound": 0
@@ -2382,11 +2380,9 @@
       "officialUrl": "https://sfi.cuhk.edu.cn/zh-hans/node/11623",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:04.019Z",
-      "status": "页面可访问，但未解析到完整岗位；可能为动态网页，需人工核对",
-      "needsManualReview": true,
-      "followedPages": 0,
-      "ok": true,
+      "checkedAt": "2026-10-07T19:57:53.523Z",
+      "status": "访问超时",
+      "ok": false,
       "candidatesFound": 0
     },
     {
@@ -2398,7 +2394,7 @@
       "officialUrl": "https://career.nankai.edu.cn/company/index/id/75.html",
       "priority": "A",
       "kind": "campus-announcement",
-      "checkedAt": "2026-10-07T13:17:04.332Z",
+      "checkedAt": "2026-10-07T19:57:53.583Z",
       "status": "提取 16 条待人工核对线索",
       "needsManualReview": true,
       "followedPages": 0,
